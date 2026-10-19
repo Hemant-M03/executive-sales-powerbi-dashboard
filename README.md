@@ -6,7 +6,8 @@ An interactive, end-to-end Power BI dashboard designed for executive leadership 
 
 ## 📸 Dashboard Preview
 
-![Executive Sales Dashboard](images/dashboard_preview.png)
+<img width="572" height="324" alt="Screenshot 2026-10-19 064428" src="https://github.com/user-attachments/assets/baa4d504-f2cb-4917-b2c9-4d233e548d00" />
+
 
 ---
 
